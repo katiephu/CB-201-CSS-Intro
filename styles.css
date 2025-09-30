@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(163, 163, 233);
+
+}
+
+.paragraph{
+    color:rgb(62, 11, 11);
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-size: 75px;
+    color:rgb(105, 50, 101);
+    text-align: center;
+}
